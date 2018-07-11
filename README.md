@@ -1,5 +1,5 @@
 # hello-world
-Helloworld repo
+Helloworld repo. Used to get familiar with git.
 
 Small change to readme file as a part of learing about Git and branches.
 
